@@ -12,3 +12,6 @@
 
 <img width="1920" height="1080" alt="linuxp5" src="https://github.com/user-attachments/assets/af3a37ac-d426-4e38-90ba-36b5699afc8f" />
 
+<img width="1920" height="1080" alt="linuxp6" src="https://github.com/user-attachments/assets/9fe0a3b8-3e9e-4ef4-ac9e-2e188f746f7b" />
+
+
