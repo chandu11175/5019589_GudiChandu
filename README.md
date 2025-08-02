@@ -14,4 +14,4 @@
 
 <img width="1920" height="1080" alt="linuxp6" src="https://github.com/user-attachments/assets/9fe0a3b8-3e9e-4ef4-ac9e-2e188f746f7b" />
 
-
+<img width="794" height="579" alt="image" src="https://github.com/user-attachments/assets/db199ee8-96e2-467d-8206-d729013c34cb" />
